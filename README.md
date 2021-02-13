@@ -4,7 +4,7 @@ MW.js is a Web framework with [Mope.io](https://mope.io) Embedded built on the t
 
 # How to start
 
-1. Insall Node.js and download "mw-js.zip" from Releases here
+1. Insall Node.js and download "mw-js.rar" from Releases here
 2. Run these commands and audit the packages
 ```
 npm i nw@0.44.1-sdk nw-builder -D
