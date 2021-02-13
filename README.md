@@ -13,7 +13,31 @@ npm i nw@0.44.1-sdk nw-builder -D
 
 If any problems: send some issue
 
-----------------------------
+
+scroll down for some secret!
+
+```
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+```
+
 ![alt text](https://yt3.ggpht.com/ytc/AAUvwniUQ0O-9Dg7parCAvo9ezPsostO6s-p3ZcyIVru=s900 "pe")
 
 [Simba's Piano Elipse](https://www.youtube.com/channel/UCPshfUdjkP5dzONwbAkihHg) is a dislike hacker and russian commenter
